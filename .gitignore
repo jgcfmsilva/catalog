@@ -1,0 +1,7 @@
+# secrets / local config
+.env
+*.bak-*
+
+# dependencies and build output
+node_modules/
+dist/

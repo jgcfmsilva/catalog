@@ -1,0 +1,20 @@
+{
+  "name": "catalog-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fontsource/orbitron": "^5.1.0",
+    "@fontsource/space-grotesk": "^5.1.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "express": "^4.21.0",
+    "http-proxy-middleware": "^3.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.0"
+  }
+}
